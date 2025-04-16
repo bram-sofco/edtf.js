@@ -1,6 +1,6 @@
 {
   "name": "edtf",
-  "version": "4.7.1",
+  "version": "4.7.2",
   "description": "Extended Date Time Format (EDTF) / ISO 8601-2 Parser and Library",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inukshuk/edtf.js.git"
+    "url": "git+https://github.com/bram-sofco/edtf.js.git"
   },
   "keywords": [
     "edtf",
@@ -34,13 +34,15 @@
     "ISO 8601"
   ],
   "author": [
-    "Sylvester Keil <sylvester@keil.or.at>"
+    "Sylvester Keil <sylvester@keil.or.at>",
+    "Bram",
+    "Michiel"
   ],
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/inukshuk/edtf.js/issues"
+    "url": "https://github.com/bram-sofco/edtf.js/issues"
   },
-  "homepage": "https://github.com/inukshuk/edtf.js#readme",
+  "homepage": "https://github.com/bram-sofco/edtf.js#readme",
   "dependencies": {
     "nearley": "^2.19.7"
   },
